@@ -30,5 +30,6 @@ module.exports = (firstName) =>
 		`Her friends ${dictionary.told} me about it, and we know her family who has kept it a secret. She has friends that also know about it which have been keeping it a secret`,
 		`She came to me and ${dictionary.told} me about it, as well as other of our friends`,
 		// Misc
-		"We knew she was pregnant weeks before and recently she told us about the news "
+		"We knew she was pregnant weeks before and recently she told us about the news ",
+		`${firstName} and Principal Skinner were in the closet making babies and I saw one of the babies and the baby looked at me!` 
 	])
